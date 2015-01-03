@@ -1,2 +1,10 @@
 \#*
 *~
+.Rproj.user
+cache/
+*.RData
+*.Rhistory
+*.Rproj
+*.Rproj.user
+plots/
+
