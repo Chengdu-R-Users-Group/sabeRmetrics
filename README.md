@@ -9,9 +9,9 @@ A group project on sabermetrics.
 
 Objectives
 
-[x] Extract player position according to the most frequent position appeared.
-[ ] Find players who have changed position in career, and derive if the player declined or ascended.
-[ ] Verify the quote above, and find out if any player succeeded in such situation.
+- [x] Extract player position according to the most frequent position appeared.
+- [ ] Find players who have changed position in career, and derive if the player declined or ascended.
+- [ ] Verify the quote above, and find out if any player succeeded in such situation.
 
 ## Additional Resources
 
